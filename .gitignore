@@ -1,0 +1,4 @@
+*.npz
+*.pkl
+*submission*.csv
+.ipynb_checkpoints/*
