@@ -1536,3 +1536,12 @@ Gurobi 9.0.0 (linux64, Python) logging started Fri Jan 10 15:32:21 2020
 Using license file /home/takashi/gurobi/gurobi900/linux64/gurobi.lic
 Set parameter LogFile to value gurobi.log
 Academic license - for non-commercial use only
+
+Gurobi 9.0.0 (linux64, Python) logging started Fri Jan 10 20:57:02 2020
+
+Using license file /home/takashi/gurobi/gurobi900/linux64/gurobi.lic
+Set parameter LogFile to value gurobi.log
+Academic license - for non-commercial use only
+Read LP format model from file santa_r.lp
+Reading time = 6.69 seconds
+: 5299 rows, 3147600 columns, 9409078 nonzeros
