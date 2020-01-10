@@ -1536,3 +1536,30 @@ Gurobi 9.0.0 (linux64, Python) logging started Fri Jan 10 15:32:21 2020
 Using license file /home/takashi/gurobi/gurobi900/linux64/gurobi.lic
 Set parameter LogFile to value gurobi.log
 Academic license - for non-commercial use only
+
+Gurobi 9.0.0 (linux64, Python) logging started Fri Jan 10 23:31:46 2020
+
+Using license file /home/takashi/gurobi/gurobi900/linux64/gurobi.lic
+Set parameter LogFile to value gurobi.log
+Academic license - for non-commercial use only
+Read LP format model from file santa_sm.lp
+Reading time = 2.57 seconds
+Obj: 499 rows, 965000 columns, 2885266 nonzeros
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 499 rows, 965000 columns and 2885266 nonzeros
+Model fingerprint: 0xc90624f0
+Variable types: 0 continuous, 965000 integer (965000 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [3e-02, 2e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.20s
+
+Explored 0 nodes (0 simplex iterations) in 0.93 seconds
+Thread count was 1 (of 24 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
