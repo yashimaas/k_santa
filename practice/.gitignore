@@ -1,3 +1,6 @@
 *.lp
 *.sol
 *.mps
+run.py
+*.mst
+gurobi.log
