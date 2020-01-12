@@ -1563,3 +1563,21 @@ Solution count 0
 
 Model is infeasible
 Best objective -, best bound -, gap -
+
+Gurobi 9.0.0 (linux64, Python) logging started Sun Jan 12 14:41:02 2020
+
+Using license file /home/yashima/gurobi.lic
+Set parameter LogFile to value gurobi.log
+Academic license - for non-commercial use only
+
+Gurobi 9.0.0 (linux64, Python) logging started Sun Jan 12 14:44:29 2020
+
+Using license file /home/yashima/gurobi.lic
+Set parameter LogFile to value gurobi.log
+Academic license - for non-commercial use only
+
+Gurobi 9.0.0 (linux64, Python) logging started Sun Jan 12 14:45:00 2020
+
+Using license file /home/yashima/gurobi.lic
+Set parameter LogFile to value gurobi.log
+Academic license - for non-commercial use only
