@@ -3,3 +3,5 @@
 *submission*.csv
 .ipynb_checkpoints/*
 */.ipynb_checkpoints/*
+*.mst
+*.csv
